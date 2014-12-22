@@ -39,9 +39,60 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An apology for actors Containing three briefe treatises. 1 Their antiquity. 2 Their ancient dignity.
+
+1. TO THE RIGHT
+HONOVRABLE, EDWARD,
+Earle of Worcester,
+Lord of Chep•toll, Ragland, and Gower,
+Knight of the most Noble Order of the
+Garter, Maister of the Horse, and one
+of the Kings most Honourable
+PRIVY COVNCEL.
+
+1. To my good Friends and Fellowes,
+the Citty-Actors.
+
+1. TO THE IVDICIALL
+READER.
+
+1. 〈 in non-Latin alphabet 〉
+
+1. In laudem, nec Operis, nec Authoris.
+
+1. To them that are opposite to this worke.
+
+1. To his beloued friend Maister
+THOMAS HEYVVOD.
+
+1. To my louing Friend and Fellow,
+THOMAS HEYVVOOD.
+
+1. To my good friend and fellow,
+THOMAS HEYVVOOD.
+
+1. To my good friend and fellow,
+THOMAS HEYVVOOD.
+
+1. To my approued good friend
+M. THOMAS HEYVVOOD.
+
+1. The Author to his Booke.
+
 #####Body#####
-An apology for actors Containing three briefe treatises. 1 Their antiquity. 2 Their ancient dignity.
+
+1. An Apology for
+Actors, and first touching
+their Antiquity
+
+1. OF ACTORS, AND
+their ancient Dignitie.
+
+1. OF ACTORS, AND
+the true vse of their quality.
+
+1. To my approued good Friend,
+Mr. Nicholas Okes.
+
 **Types of content**
 
   * There are 412 **verse** lines!
